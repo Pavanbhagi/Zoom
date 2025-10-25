@@ -1,0 +1,132 @@
+/* h1{
+     font-family: "Montserrat", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-size: 28px;
+}
+.red{
+    color: red;
+}
+div{
+    border: solid black 2px;
+    border-radius: 10px;
+    width: 600px;
+    height: 650px;
+    padding: 20px;
+    margin: 20px;
+    text-align: left;
+    
+}
+button{
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+
+} */
+/* Exam Polices note  */
+
+
+
+.task1{
+    
+    /* background-color: green; */
+    display: flex;
+    justify-content: space-between;
+    padding: 3px;
+    border-radius: 8px;
+    border:2px; 
+    background-color: black;
+    color: white;
+    width: 35px; 
+    height: 350px;
+    position: absolute;
+    bottom: 220px;
+    flex-direction: column;
+    left: 330px;
+    
+    }
+
+
+.bi{
+    font-size:medium;
+    padding: 2px;
+}
+
+
+img{
+    height: 430px;
+    width: 900px;
+    position: absolute;
+    right: 367px;
+    left: 318px;
+}
+
+.task{
+    display: flex;   
+    justify-content: space-between;
+    padding: 10px;
+    background-color: black;
+    color: white;   
+    border: 10px ;
+    border-radius: 2px;
+    width: 880px;
+    height: 30px;
+    position: relative;
+    top: 500px;
+
+
+}
+.bi1
+{
+    font-size: x-large;
+    padding: 6px;
+}
+
+.cookies{
+    
+position: absolute;
+top: 430px;
+
+}
+
+.bi2{
+    font-size: xx-large;
+    padding: 10px;
+    top: 200px;
+    position: relative;
+    /* height: 50px;
+    width: 50px; */
+    border-radius: 10px;
+    border: rgb(94, 184, 213);
+    background-color: rgb(94, 184, 213);
+    color: white;
+}
+button{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    
+}
+
+/* .AI{
+   position: absolute;
+}
+
+.Assist{
+    position: relative;
+    top: 200px;
+    right: 50px;
+    top: 650px;
+    border-radius: 10px;
+    border: rgb(94, 184, 213);
+    background-color: rgb(94, 184, 213);
+    color: white;
+    
+} */
+
+
+
